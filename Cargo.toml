@@ -1,7 +1,7 @@
 [package]
 name = "clothoidal"
 version = "0.1.0"
-edition = "2025"
+edition = "2024"
 authors = ["Fabian Kraus <fabiikraus@gmail.com>"]
 description = "A library for modeling clothoids, ie. curves where the curvature is a linear function of arc length."
 license = "MIT"
